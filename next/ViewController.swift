@@ -51,7 +51,7 @@ class ImageViewController: UIViewController {
                     self.stackView.addArrangedSubview(view)
                     print("image is added")
                 }
-                print("done")
+                print("done1")
                 
             }
             
